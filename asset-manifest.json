@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/identity-wheel-maker/static/js/main.9374828d.js",
+    "main.js": "/identity-wheel-maker/static/js/main.7e2afe36.js",
     "index.html": "/identity-wheel-maker/index.html",
-    "main.9374828d.js.map": "/identity-wheel-maker/static/js/main.9374828d.js.map"
+    "main.7e2afe36.js.map": "/identity-wheel-maker/static/js/main.7e2afe36.js.map"
   },
   "entrypoints": [
-    "static/js/main.9374828d.js"
+    "static/js/main.7e2afe36.js"
   ]
 }
